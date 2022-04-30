@@ -1,0 +1,13 @@
+{
+  "name": "ondeath",
+  "description": "A typed safe Omegga plugin.",
+  "author": "Aware",
+  "config": {
+    "poll-rate": {
+        "description": "How often, in Hz, to check player positions and teleport.",
+        "type": "number",
+        "default": 1000
+    }
+  },
+  "commands": []
+}

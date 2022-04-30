@@ -1,0 +1,13 @@
+{
+  "compilerOptions": {
+    "noEmit": true,
+    "esModuleInterop": true,
+    "moduleResolution": "node",
+    "resolveJsonModule": true,
+    "target": "es2020",
+    "baseUrl": "."
+  },
+  "files": [
+    "omegga.d.ts"
+  ]
+}
